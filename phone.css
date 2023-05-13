@@ -1,0 +1,42 @@
+#home{
+    height: 630px;
+
+}
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 10px;
+    padding-bottom: 8px;
+}
+#btn1 {
+ margin: 0px auto;
+}
+.btn{
+    cursor: pointer;
+
+}
+.btn:hover{
+    color: white;
+}
+#home::before{
+    height: 520px;
+}
+#home p{
+    font-size: 13px;
+
+}
+.hprimary{
+    font-size: 39px;
+}
+#services{
+    flex-direction: column;
+
+}
+#services.box{
+
+}
+#clients{
+    flex-wrap: wrap;
+}
